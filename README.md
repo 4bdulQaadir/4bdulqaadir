@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, This is Abdul Qaadir! 👋</h1>
 <h3 align="center">Undergrad CS Student | Tech Aficionado | Club Coordinator</h3>
 <p align="center">
-    <a href="www.linkedin.com/in/b-abdul-qaadir-9822b523a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/b-abdul-qaadir-9822b523a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://x.com/4bdulqaadir" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://leetcode.com/u/abdulqaadir883/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
@@ -25,7 +25,7 @@
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
 <p align="center"> 
-  <a href="github.com/4bdulQaadir "><a href="github.com/4bdulQaadir "><img src="https://skillicons.dev/icons?i=python,c,java,dsa,dbms,numpy,pandas,streamlit,html,css,mysql,mongodb,,pycharm,vscode,,github,git,sqlite,sklearn"> </a> </p>
+  <a href="github.com/4bdulQaadir "><a href="github.com/4bdulQaadir "><img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,tensorflow,vscode,github,git,pycharm,aws,opencv,sqlite,sklearn"> </a> </p>
 
 <br></br>
 
